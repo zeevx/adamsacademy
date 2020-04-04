@@ -1,0 +1,2 @@
+# adamsacademy
+Adams Academy Website
